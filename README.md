@@ -1,6 +1,6 @@
 # Arborescence MarkDown pour la recherche documentaire.
 
-![Exemple](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.ledito.me%2Fl-arborescence-des-fichiers-et-des-dossiers&psig=AOvVaw3D0IzDfp89qzMZDLAzacJd&ust=1699913795609000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNDxp8G-v4IDFQAAAAAdAAAAABAJ)
+![](https://www.ledito.me/images/documents/2019/11/arborescence_dossiers_fichiers.png)
 
 Ce modèle d'arborescence de fichier est conçu pour vous aider à organiser vos documents de manière efficace dans le cadre de vos études supérieures. Il est spécialement optimisé pour être utilisé avec des gestionnaires de documents au format Markdown, vous permettant de rechercher et gérer facilement vos ressources académiques.
 
