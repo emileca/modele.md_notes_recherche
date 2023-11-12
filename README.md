@@ -8,7 +8,7 @@ Ce modèle d'arborescence de fichier est conçu pour vous aider à organiser vos
 
 1. Clonez ou téléchargez ce référentiel dans le dossier de votre choix sur votre ordinateur.
 
-2. Utilisez un gestionnaire de documents au format Markdown (comme Obsidian, Notion, Typora, etc.) pour créer un nouveau "dossier de base" ou "dossier principal" qui représentera votre domaine d'études (par exemple, "Informatique", "Sciences Sociales", "Biologie", etc.).
+2. Utilisez un gestionnaire de documents au format Markdown (comme Obsidian, Notion, Typora, etc.) pour créer un nouveau "dossier de base" ou "dossier principal" qui représentera votre domaine d'études (par exemple, "Doctorat_en_sciences_de_l'éducation".
 
 3. Copiez les fichiers et dossiers de ce modèle dans votre dossier principal, en maintenant la structure générale.
 
@@ -25,8 +25,8 @@ Ce modèle d'arborescence de fichier est conçu pour vous aider à organiser vos
 - 999_Fiches_et_Bordereaux
 -   9991_Bordereaux_de_recherche
 -   9999_Modèle
--     (session)(AAAA)_bordereau_de_recherche_MODELE.md
--     Modèle fiche de lecture.md
+- (session)(AAAA)_bordereau_de_recherche_MODELE.md
+- Modèle fiche de lecture.md
 
 N'hésitez pas à adapter cette structure en fonction de vos besoins personnels.
 
