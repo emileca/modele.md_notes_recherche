@@ -4,7 +4,7 @@
 
 Ce modèle d'arborescence de fichier est conçu pour vous aider à organiser vos documents de manière efficace dans le cadre de vos études supérieures. Il est spécialement optimisé pour être utilisé avec des gestionnaires de documents au format Markdown, vous permettant de rechercher et gérer facilement vos ressources académiques.
 
-## Comment Utiliser ce Modèle
+## 1. Comment Utiliser ce Modèle
 
 1. Clonez ou téléchargez ce référentiel dans le dossier de votre choix sur votre ordinateur.
 
@@ -16,7 +16,8 @@ Ce modèle d'arborescence de fichier est conçu pour vous aider à organiser vos
 
 5. Ajoutez vos documents Markdown, notes, articles, et autres ressources dans les dossiers appropriés. Organisez-les de manière à ce que vous puissiez facilement les retrouver lors de vos études ou de vos recherches.
 
-## Structure de l'Arborescence
+## 2. Structure de l'Arborescence
+
 - 001_Revues_de_littérature
 - 002_Cadres_théoriques
 - 003_Pointeurs
@@ -30,7 +31,7 @@ Ce modèle d'arborescence de fichier est conçu pour vous aider à organiser vos
 
 N'hésitez pas à adapter cette structure en fonction de vos besoins personnels.
 
-## Conseils d'Utilisation
+## 3. Conseils d'Utilisation
 
 - Utilisez des noms de fichiers descriptifs et cohérents pour faciliter la recherche.
 
@@ -38,7 +39,7 @@ N'hésitez pas à adapter cette structure en fonction de vos besoins personnels.
 
 - Tirez parti des fonctionnalités de recherche de votre gestionnaire de documents pour accéder rapidement à l'information dont vous avez besoin.
 
-## Contribution
+## 4. Contribution
 
 Si vous avez des idées d'amélioration ou des suggestions pour ce modèle d'arborescence de fichier, n'hésitez pas à ouvrir une issue ou à soumettre une demande de fusion (Pull Request).
 
