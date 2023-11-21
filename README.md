@@ -47,6 +47,8 @@ Si vous avez des idées d'amélioration ou des suggestions pour ce modèle d'arb
 
 Profitez de cette arborescence de fichier pour optimiser votre organisation académique et améliorer votre productivité dans vos études supérieures. Bonne chance dans vos recherches et vos projets académiques !
 
+Merci à Beatrice Couture pour les échcages, les idées et la formation!! :-)_
+
 ![License](http://www.wtfpl.net/wp-content/uploads/2012/12/wtfpl-badge-3.png) Émile Caron
 
 
